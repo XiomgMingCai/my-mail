@@ -1,0 +1,23 @@
+{
+  "name": "my-mail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiomgMingCai/my-mail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XiomgMingCai/my-mail/issues"
+  },
+  "homepage": "https://github.com/XiomgMingCai/my-mail#readme",
+  "dependencies": {
+    "nodemailer": "^4.4.1"
+  }
+}
